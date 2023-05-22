@@ -2,7 +2,7 @@
 ; projet_micro.asm
 ;
 ; Created: 22.05.2023 12:40:44
-; Author : abart
+; Author : Arthur Bauer, Pierre Adamini
 ;
 
 
